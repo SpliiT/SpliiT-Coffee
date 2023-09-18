@@ -1,4 +1,0 @@
-#1A120B : marron foncé
-#3C2A21 : marron
-#D5CEA3 : crème
-#E5E5CB : crème clair
