@@ -1,4 +1,4 @@
-# ☕ SpliiT-Coffee - Project 1 Fabrique NUmeroqie
+# ☕ SpliiT-Coffee - Project 1 Fabrique Numérique
 Here is my first project from the fullstack web developer training at Fabrique Numérique Paloise.
 
 ## ✍ Project title: Mister Coffee
